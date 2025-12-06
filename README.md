@@ -24,7 +24,7 @@ An interactive **Excel Sales Dashboard** created using pivot tables, dynamic cha
 
 ---
 
-
+<a href="https://github.com/Sailaja-Kalle/Excel_DashBoard/blob/main/excel_Dashboard.png">DASHBOARD</a>
 
 ## DASHBOARD
 <img width="1088" height="638" alt="excel_Dashboard" src="https://github.com/user-attachments/assets/9c4357f0-3173-4f70-8f45-e1fcba6a0cca" />
